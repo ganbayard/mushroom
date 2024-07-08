@@ -1,0 +1,6 @@
+path: /Users/macbookpro/projects-mlub/rookies/mushroom/model-training/data
+train: images/train
+val: images/val
+
+nc: 2
+names: ['young', 'mature']
